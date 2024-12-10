@@ -1,0 +1,61 @@
+* {
+    margin: 0 auto;
+}
+
+#surati {
+    text-align: center;
+    margin-top: 156px;
+    margin-left: 260px;
+    margin-bottom: 115px;
+}
+
+#head_div {
+    max-width: 1137px;
+
+
+    margin-left: 392px;
+}
+
+#head_div_h {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#head_div_p {
+    color: #535862;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    padding-left: 32px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#email {
+    display: inline-block;
+    margin: 0 auto;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    width: 317px;
+    height: 24px;
+    margin-left: 324px;
+   
+}
+
+#submit {
+    margin: 0 auto;
+    display: inline-block;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #007CB8;
+    display: flex;
+    align-items: center;
+    color: #FFF;
+}
